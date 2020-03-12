@@ -1,0 +1,28 @@
+git.md
+6. What is the difference between `git merge` and `git rebase`?
+# Git
+
+typescript.md
+1. What is TypeScript?
+3. Can you explain TypeScript generics?
+
+java.md
+3. What is the difference between `break` and `continue` within a loop?
+4. What is a map in Java?
+
+angular.md
+7. If you provide a service in two components providers section of `@Component`
+15. How can we use RxJS to improve performance of an Angular component?
+
+general.md
+   1. How would you find the smallest and largest number in an unsorted integer
+   1. What are the common request methods?
+
+javascript.md
+      // Add 'test2' to end
+    - Assignment
+
+testing.md
+3. What is TDD?
+   2. What benefits does TDD give us?
+
